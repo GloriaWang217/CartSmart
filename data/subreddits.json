@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SkincareAddiction",
+    "categories": ["moisturizer", "cleanser", "sunscreen", "serum", "toner", "exfoliant"],
+    "tier": 1
+  },
+  {
+    "name": "AsianBeauty",
+    "categories": ["moisturizer", "cleanser", "sunscreen", "serum", "toner", "essence", "sheet_mask"],
+    "tier": 1
+  },
+  {
+    "name": "MakeupAddiction",
+    "categories": ["foundation", "concealer", "blush", "eyeshadow", "mascara", "lipstick", "primer"],
+    "tier": 1
+  },
+  {
+    "name": "30PlusSkincare",
+    "categories": ["anti_aging", "retinol", "moisturizer", "serum", "eye_cream"],
+    "tier": 2
+  }
+]

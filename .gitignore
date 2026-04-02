@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.vscode/
+.idea/
+*.db
+.DS_Store
+CLAUDE.md
+ROADMAP.md
